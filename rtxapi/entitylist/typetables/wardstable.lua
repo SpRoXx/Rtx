@@ -1,0 +1,2 @@
+---@class wards_table
+---@field public enemy game_object_script[]

@@ -1,0 +1,11 @@
+---@class antigapcloser_args
+---@field public type gapcloser_type
+---@field public target game_object_script
+---@field public start_time number
+---@field public end_time number
+---@field public speed number
+---@field public start_position vector
+---@field public end_position vector
+---@field public is_unstoppable boolean
+---@field public is_cc boolean
+local antigapcloser_args = {}

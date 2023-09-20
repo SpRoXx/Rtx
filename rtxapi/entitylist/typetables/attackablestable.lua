@@ -1,0 +1,2 @@
+---@class attackables_table
+---@field public all game_object_script[]
