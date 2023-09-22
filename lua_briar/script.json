@@ -1,0 +1,7 @@
+{
+	"displayname":"Briar",
+	"name" : "lua_briar",
+	"entry" : "main.lua",
+	"type": 1,
+	"champions": [233]
+}
