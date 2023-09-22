@@ -1,0 +1,7 @@
+{
+	"displayname":"BadBitch fiora",
+	"name" : "lua_fiora",
+	"entry" : "main.lua",
+	"type": 1,
+	"champions": [114]
+}
