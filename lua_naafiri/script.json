@@ -1,0 +1,7 @@
+{
+	"displayname":"BadBitch NAAFIRI",
+	"name" : "lua_naafiri",
+	"entry" : "main.lua",
+	"type": 1,
+	"champions": [950]
+}
