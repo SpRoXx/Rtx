@@ -1,0 +1,7 @@
+{
+    "displayname": "Garen Plugin",
+    "name": "lua_garen",
+    "entry": "main.lua",
+    "type": 1,
+    "champions": [86] 
+}
