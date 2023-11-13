@@ -1,7 +1,0 @@
-{
-	"displayname":"Yasuo",
-	"name" : "Yasuo",
-	"entry" : "main.lua",
-	"type": 1,
-	"champions": [157]
-}
